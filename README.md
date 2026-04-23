@@ -70,13 +70,13 @@ The system should:
 
 ```
 Enter Order ID: 101
-Enter Customer Name: Akanksha
+Enter Customer Name: Giridhar
 Enter Amount: 5000
 
 Processing Order...
 
-Email sent to Akanksha
-SMS sent to Akanksha
+Email sent to Giridhar
+SMS sent to Giridhar
 Order logged successfully (ID: 101)
 ```
 
